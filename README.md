@@ -1,5 +1,5 @@
 # bluemedix-backend-api
-It's a repository for the L1 round of Blue Medix company
+It's a repository for the Blue Medix company
 
 ## Setup Instructions
 1. Clone the repo: `git clone <repo-url>`
